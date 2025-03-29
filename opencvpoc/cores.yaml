@@ -1,0 +1,12 @@
+path: ./
+train: cores/train
+val: cores/train
+test:
+
+
+names:
+  0: vermelho
+  1: preto
+  2: branco
+  3: azul
+  4: prata
